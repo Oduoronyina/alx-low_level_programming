@@ -5,7 +5,7 @@
  *
  * Return: Always (Success)
  */
-int main(void) //prints the alphabet in lowercase
+int main(void) /*prints the alphabet in lowercase*/
 {
 char c;
 
