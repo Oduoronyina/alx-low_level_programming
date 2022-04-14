@@ -1,2 +1,1 @@
-0x03-debugging
-Methods of debugging
+0x03. C -Debugging repo
